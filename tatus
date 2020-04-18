@@ -1,0 +1,202 @@
+[33mcommit f4d4ca3689df6627f223db794ac29173d9d723f6[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Sebastian Torres Cabrera <sebastian.torres0426@gmail.com>
+Date:   Fri Oct 11 21:42:30 2019 -0500
+
+    Detallitos
+
+[33mcommit 6b278701300ada5dc8e8e6d179781b6900a3c2f7[m
+Author: Sebastian Torres Cabrera <sebastian.torres0426@gmail.com>
+Date:   Thu Oct 10 16:10:52 2019 -0500
+
+    inicio mejoradito
+
+[33mcommit 015fed91ae01ac3eb1aa8ceeea4b5d43001d5608[m
+Author: Sebastian Torres Cabrera <sebastian.torres0426@gmail.com>
+Date:   Tue Oct 8 21:57:17 2019 -0500
+
+    mostrar películas en el inicio
+    
+    - si se jode volver al commit anterior ¯\_(ツ)_/¯
+
+[33mcommit ec35ada7e4164860c3bdcaff799f796bc482060e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Sebastian Torres Cabrera <sebastian.torres0426@gmail.com>
+Date:   Thu Oct 3 14:47:56 2019 -0500
+
+    tabla peliculas funcionando
+    - funcion de asignar actores a una nueva pelicula
+    - funcion de asginar categorias a las nuevas peliculas
+
+[33mcommit 3120805c373819cdabecd7fba848c6d1e3e309b9[m
+Author: Sebastian Torres Cabrera <sebastian.torres0426@gmail.com>
+Date:   Tue Oct 1 10:05:16 2019 -0500
+
+    tabla de clientes funcionando
+    
+            - habia rutas malas con controlador_cliente.php cuando es
+            controlado_clientes.php
+            - termine el modelo_cliente.php, faltaban comillas y cambiar el
+            staff por customer
+            - acomode el editar y nuevo porque faltaban cosas en los
+            formularios de direccion
+
+[33mcommit 6fe0e84e2d8688a3725e04c99101f8bd5e63b68a[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 30 14:05:14 2019 -0500
+
+    Version 2.1.1 Me estrese y no me sirve agregar, actualizar ni eliminar
+
+[33mcommit d2293cdb3b65a2c87d0fe0cb4f4e2779c3d9388b[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 30 13:51:44 2019 -0500
+
+    Version 2.1.1 Esperando a que funcionen estos HPTAS botones
+
+[33mcommit 3aa81cf27d46dfca83e759742bf39040085de937[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 30 12:23:54 2019 -0500
+
+    Version 2.1.1 Funcion listar de clientes arreglada
+
+[33mcommit 7fc549d9e834b186f97105ab1d38f207eab29c9a[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 30 12:05:24 2019 -0500
+
+    Version 2.1.1 Corrigiendo errores funciones clientes
+
+[33mcommit 6384cc814ce4ee7eff797db4b7eae39d23760219[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 30 10:59:00 2019 -0500
+
+    Version 2.1 Actualizacion rol empleados y funciones clientes
+
+[33mcommit b033ee12528211af7d820c476358944b0cc07d68[m
+Author: Estudiantes <Estudiantes@cecep.edu.co>
+Date:   Sat Sep 28 09:41:17 2019 -0500
+
+    Version 2.0.2 Triggers Actualizados
+
+[33mcommit e197b15edf2045fe4c3d9b96ed45db7269368e51[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Thu Sep 26 12:59:11 2019 -0500
+
+    Version 2.0.1 correccion index.html
+
+[33mcommit cad2f7c4fbacc1eefcd0674f1a15c07f343ce5bc[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Thu Sep 26 12:53:17 2019 -0500
+
+    Version 2.0
+
+[33mcommit 2e265206ee3459d263ad8cdd9d4e43d919bbbe4e[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 23 22:44:54 2019 -0500
+
+    Version 1.0 Empieza el proyecto
+
+[33mcommit b4ed3fe1d638c868e1128e0295f24947e8fd97e7[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 23 22:29:30 2019 -0500
+
+    Version 1.0.1.1
+
+[33mcommit 9fb54bd50416a2a06b951153953f9076c83b7480[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 23 22:26:44 2019 -0500
+
+    Version 1.0 uwu
+
+[33mcommit 8a6f6d7ae21253993c708e8afee33051de2868a1[m[33m ([m[1;31morigin/6d769c1[m[33m)[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Mon Sep 23 21:53:30 2019 -0500
+
+    Version 1.0
+
+[33mcommit 6d769c1bf3052d79d3c93f2a69de4b9c89f24732[m
+Author: Estudiantes <Estudiantes@cecep.edu.co>
+Date:   Mon Sep 23 14:57:53 2019 -0500
+
+    Version 1.0 Development
+
+[33mcommit 6a2ff7acd15628cd7800bdf80c764b747d666ce0[m
+Author: Estudiantes <Estudiantes@cecep.edu.co>
+Date:   Mon Sep 23 14:56:09 2019 -0500
+
+    Version 1.0 Prueba padilal
+
+[33mcommit 554c19fe7ef1c499194a20213ed41f5c3230340b[m
+Author: Daniel <53983898+Se1juro@users.noreply.github.com>
+Date:   Mon Sep 23 14:50:55 2019 -0500
+
+    Version 1.0.1 Reformada
+
+[33mcommit 91bb7e03f9d89d2fc7fffc84b3c2eeeea420dd31[m
+Author: Daniel <53983898+Se1juro@users.noreply.github.com>
+Date:   Sun Sep 22 23:22:30 2019 -0500
+
+    Update index.html
+
+[33mcommit 1611bd5ea57ea30ead2c070736b8693a54e1de2a[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:19:30 2019 -0500
+
+    Version 1.0.1
+
+[33mcommit 9608c6c8ec55a9e5f38ab4ac121293ffe0d0dd3a[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:16:47 2019 -0500
+
+    Version 1.0
+
+[33mcommit c33a0f6cabe08f06e771086f4c6c081ba74464f4[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:15:51 2019 -0500
+
+    Version 1.0
+
+[33mcommit 5478a54f9fef083474cbbb7a049e764562036c23[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:14:51 2019 -0500
+
+    Commit no se
+
+[33mcommit 8d1ca36911aaa401ca5ad42045b350202be65d17[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:13:11 2019 -0500
+
+    Commit
+
+[33mcommit 1f5dff838253bce699ea40d278582f64613ac204[m
+Author: Daniel Morales <mralejo99@gmail.com>
+Date:   Sun Sep 22 23:11:50 2019 -0500
+
+    Version 1.0.1
+
+[33mcommit f7ee44d36752169ad04610cfa53ec552e564cdb8[m
+Author: Daniel <53983898+Se1juro@users.noreply.github.com>
+Date:   Sun Sep 22 22:44:45 2019 -0500
+
+    Version 1.0
+
+[33mcommit c4d19ac98cc2ab1025529c8830ecc44bfdb78f3b[m
+Author: Daniel <53983898+Se1juro@users.noreply.github.com>
+Date:   Sun Sep 22 22:28:15 2019 -0500
+
+    Probando commit desde navegador a cmd de git
+
+[33mcommit 12cd125da86ae0795621fa3422958ecec44588dd[m
+Author: unknown <mralejo99@gmail.com>
+Date:   Sun Sep 22 22:05:59 2019 -0500
+
+    Version 1.0
+
+[33mcommit dc9d72a66b170f4e97eb13af39f766cf228a7882[m
+Author: unknown <mralejo99@gmail.com>
+Date:   Sun Sep 22 22:05:15 2019 -0500
+
+    Version 1.0.1
+
+[33mcommit 901a0092682690b1d76e646083bc9bc71292d167[m
+Author: unknown <mralejo99@gmail.com>
+Date:   Sun Sep 22 21:58:55 2019 -0500
+
+    version 1.0

@@ -1,0 +1,12 @@
+body {
+	background-image: url('../img/fondo.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.flotante {
+    display:scroll;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+}

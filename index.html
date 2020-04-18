@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+
+  <head>
+    <title>Sakila</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./jquery/data-table/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style-index.css">
+  </head>
+  
+  <body>
+
+  	<nav class="navbar navbar-dark bg-primary">
+        <a class="navbar-brand" href="index.html">
+          <img src="img/logo.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+          <b>SAKILA</b>
+        </a>
+        <ul class="navbar-nav mr-auto">
+          <!-- opciones de la barra -->
+        </ul>
+        <form class="form-inline" action="./php/sesion/login.php" method="POST">
+          <input class="form-control mr-sm-2" type="text" placeholder="Ususario" aria-label="Usuario" name="usuario">
+          <input class="form-control mr-sm-2" type="password" placeholder="Clave" aria-label="Clave" name="clave">
+          <button class="btn btn-warning my-2 my-sm-0" type="submit">Iniciar sesion</button>
+        </form>
+      </nav> 
+
+      <div class="container p-5" style="background-color: rgba(0,0,0,0.7);">
+         <!-- contenido de la pagina  -->
+
+    		<div id="contenido" class="d-none">
+
+          <div id="carouselPeliculas" class="carousel slide mb-3" data-ride="carousel">
+            <div class="carousel-inner" style="border-radius: 30px;">
+              <div class="carousel-item active">
+                <img src="./img/carousel.jpg" class="d-block w-100" alt="img-fondo">
+                <div class="carousel-caption d-none d-md-block">
+                    <h1>Ultimos Estrenos</h1>
+                    <p>descubre las ultimas películas agregadas al catálogo de nuestra tienda</p>
+                  </div>
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselPeliculas" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselPeliculas" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+          <table id="tabla" cellspacing="0" width="100%">
+          <thead>
+            <tr>
+              <th class="text-white text-center" style="font-size: 3em; letter-spacing: 0.5em; border-bottom: 2px solid">Lista de Películas</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+          </table>  
+          
+        </div>
+
+        <div id="pb" class="abs-center">
+          <div class="progress" style="height: 50px; min-width: 800px;">
+          <div class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+            <span class="title">Cargando...</span>
+          </div>
+        </div>
+        </div>
+
+        <footer class="pt-5" style="color: gray;">
+          <p>&copy Jhoan Maurucio Galviz - Johnny Navarrete - Sebastian Padilla - Sebastian Torres - Daniel Morales</p>
+        </footer>
+        
+      </div>
+
+      <a id="up" class="flotante d-none" href="#"><img src="./img/flecha.png" alt="flecha"></a>
+    
+    <script src="jquery/jquery.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script> 
+    <script src="bootstrap/js/bootstrap.min.js"></script> 
+    <script src="./jquery/data-table/jquery.dataTables.min.js"></script>
+    <script src="./jquery/data-table/dataTables.bootstrap4.min.js"></script>
+    <script src="./jquery/data-table/jquery-ui.min.js"></script>
+    <script src="./js/funciones_index.js"></script>
+  </body>
+
+</html>
+				
